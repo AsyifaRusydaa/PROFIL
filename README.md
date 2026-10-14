@@ -1,6 +1,4 @@
 
-![Header](img/github-header-banner.png)
-
 ##### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,php&theme=light&perline=5)](https://skillicons.dev)
