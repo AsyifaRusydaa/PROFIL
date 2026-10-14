@@ -1,7 +1,7 @@
 
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,php&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php&theme=light&perline=5)](https://skillicons.dev)
 
 
 <h5 align="left">Connect with me:</h5>
